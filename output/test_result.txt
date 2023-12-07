@@ -1,0 +1,1 @@
+test_miou: 0.58741, test_accuracy(pa): 0.88897,  test_recall: 0.82347,test_f1:0.69134,test_precision:0.66580,test_kappa:0.65538
